@@ -1,3 +1,3 @@
 # -Responsive-Image-Gallery-Layout-Using-Css-Grid
 
-![](/images/responsive-image-gallery.png?raw=true)
+![](https://github.com/hariidev/-Responsive-Image-Gallery-Layout-Using-Css-Grid/blob/master/images/Responsive-image-gallery.png)
